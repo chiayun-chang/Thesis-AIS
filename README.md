@@ -6,7 +6,7 @@ Student: Chia-Yun Chang
 
 Supervisor: Martijn Meijers (TU Delft), Fedor Baart (Deltares), Solange van der Werff (TU Delft)  
 
-[Full text/download via Utrecht University Repository](http://dspace.library.uu.nl/handle/1874/406047)
+[Full text/download via Utrecht University Repository](http://www.gdmc.nl/publications/2021/MScThesisChia-YunChang.pdf)
   
   
 ## Abstract
